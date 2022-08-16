@@ -1,6 +1,6 @@
 # HEALTH_CONSULTING_SYSTEM
 OVERVIEW:
-This project was built by me to deepen my knowledge about different aspects of SOFTWARE ENGINERRING
+This project was built by me to deepen my knowledge about different aspects of SOFTWARE ENGINERRING.
 The purpose of developing the software is to provide a flexible, hassle-free, easier and convenient healthcare experience; 
 finding the right doctor, booking diagnostic tests, obtaining medicines & booking offline and online appointments.
 
